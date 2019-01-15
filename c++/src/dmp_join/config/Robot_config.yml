@@ -1,0 +1,2 @@
+enable_safety_check: false
+vel_limit: [0.7; 0.7; 0.7; 1.2; 1.2; 1.2]

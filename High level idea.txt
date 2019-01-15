@@ -1,0 +1,5 @@
+Switch between different motion patterns ensuring C2 smoothness and following the desired path as closely as possible.
+As desired path we regard the path that would be executed ensuring only C1 smoothness.
+
+- Make comparison with same goal and pattern switch.
+- With different goal and pattern switch.

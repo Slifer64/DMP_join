@@ -1,0 +1,26 @@
+# =====  Controller params  ======
+
+# Training data
+# N_dmps: 2
+# train_data1: "train_data1.bin"
+# train_data2: "train_data2.bin"
+
+# DMP parameters
+N_kernels: 20
+a_z: 20
+b_z: 5
+train_method: "LS"
+
+T_total: 6.0
+
+goals: [0.1 0.1 0.1; 0.2 0.2 0.2]
+
+goal_switch_times: [0.0 0.4]
+goal_switch_ind: [0 1]
+dmp_switch_ind: [0 1]
+
+as0: 5.0
+kas: 5
+as_max: 200
+
+k_click: 0.5
