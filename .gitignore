@@ -2,7 +2,7 @@
 ## matlab
 ##---------------------------------------------------
 
-FRILibrary/ 
+c++/src/robots/kuka/lwr4p/FRILibrary/
 
 # ignore logged *.bin and *.txt *.dat and *.mat files
 #data/*.bin
