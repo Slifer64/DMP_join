@@ -58,4 +58,3 @@ else
   echo -e $COLOR_RED"FRIL library failed to be built installed..."$COLOR_RESET
   AS64_ERROR=1
 fi
-
